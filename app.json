@@ -24,8 +24,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "co.apollo.test"
+      "bundleIdentifier": "co.apollo.test",
+      "supportsTablet": true
     },
     "android": {
       "package": "co.apollo.test"
